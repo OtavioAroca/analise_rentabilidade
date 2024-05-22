@@ -6,7 +6,7 @@ A XVendas, uma empresa de varejo com mais de uma década de atuação e reconhec
  
 O principal objetivo deste estudo é investigar as causas da diminuição na rentabilidade da XVendas, mesmo com um volume de vendas estável. A análise visa identificar fatores específicos que estão impactando a rentabilidade e propor soluções para reverter essa tendência negativa, assegurando a viabilidade financeira a longo prazo da empresa.
 
-## 💡 Insights do Projeto
+## 💡 Conclusão
 
 A análise dos dados indicou que a rentabilidade da XVendas foi significativamente afetada pelo aumento no custo de entrega durante o período em análise. Contudo, este fator isolado não explica completamente a situação. Através dos gráficos de correlação, verificou-se que tanto o custo dos produtos quanto o custo de marketing também têm correlação com o custo de entrega.
 
